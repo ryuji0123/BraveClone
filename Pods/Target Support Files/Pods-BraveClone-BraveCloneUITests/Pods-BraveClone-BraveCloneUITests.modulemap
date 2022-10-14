@@ -1,0 +1,6 @@
+framework module Pods_BraveClone_BraveCloneUITests {
+  umbrella header "Pods-BraveClone-BraveCloneUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
